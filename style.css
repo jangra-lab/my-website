@@ -1,0 +1,185 @@
+#design{
+    margin: -4px 370px;
+    padding: 0px 10px;
+    /* padding-right: 20px; */
+    /* border-style: solid; */
+    border: 1px solid rgba(1, 1, 1, 1);
+    border-radius: 30px;
+    height: 43px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    border-top-color: rgb(223, 225, 229);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(223, 225, 229);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(223, 225, 229);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(223, 225, 229);
+    border-left-style: solid;
+    border-left-width: 1px;
+    /* border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial; */
+    /* border-width: 50px; */
+    /* border-top: white; */
+    /* border-left: white; */
+    /* border-right: white; */
+    /* height: 50px; */
+    /* box-sizing: border-box; */
+}
+#design:hover{
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+}
+#navbar{
+    /* float: right;
+    color: red; */
+    /* background-color: rosybrown; */
+    /* list-style: none; */
+    }
+#navbar li{
+float: right;
+list-style: none;
+}
+#navbar ul{
+    padding-top: 4px;
+    overflow: auto;
+    padding-right: 60px;
+}
+#navbar li a{
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+    padding-right: 14px;
+}
+#sign{
+    border-radius: 4px;
+    float: right;
+    color: white;
+    font-family: Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+    line-height: 16px;
+    border: 1px solid transparent;
+    background: #1a73e8;
+    padding: 9px 23px;
+    text-align: center;
+}
+#navbar button{
+    width: 95px;
+    cursor: pointer;
+    margin-top: -4px;
+    margin-right:11px;
+}
+#navbar button:focus{
+    outline:none;
+    background-color: rgb(79, 79, 194);
+}
+#logo{
+    display: block;
+    width: 290px;
+    height: 62px;
+    margin-left: auto;
+    margin-right: auto;
+    /* clear: none; */
+    padding: 6px 100px 30px 100px;	
+}
+
+#searchfield{
+    width: 450px;
+    height: 34px;
+    margin-left: -72px;
+    /* margin: 0px auto; */
+    border: solid rgba(0, 0, 0, 0);
+    /* border-radius: 20px; */
+    /* background-color:sandybrown; */
+    /* float: left; */
+    color:black;
+    /* font-weight: bold; */
+    font-size: 15px;
+}
+#srcbtn:hover{
+    /* margin: -6px -103px; */
+    /* border: 1px solid rgba(255, 0, 0, 0); */
+    border: 1px solid #dfe1e5;
+    border-top-color: rgb(223, 225, 229);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(223, 225, 229);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(223, 225, 229);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(223, 225, 229);
+    border-left-style: solid;
+    border-left-width: 1px;
+}
+#srcbtn{
+    margin-top: 32px;
+    margin-right: 164px;
+    cursor: pointer;
+    /* float: right; */
+    margin-left: 110px;
+    /* border: 1px solid rgba(0, 0, 255, 0); */
+    width: 121px;
+    height: 40px;
+    background-color: #f8f9fa;
+    /* clear: both; */
+    border-radius: 4px;
+    border: 1px solid #f8f9fa;
+    border-top-color: rgb(248, 249, 250);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(248, 249, 250);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(248, 249, 250);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(248, 249, 250);
+    border-left-style: solid;
+    border-left-width: 1px;
+    /* font-size: 20px; */
+    /* float: right; */
+    /* font-weight: bold; */
+}
+#searchfield:focus{
+    outline:none;
+
+}
+#searchbtn:focus{
+    outline: none;
+}
+th{
+    padding: 0px 50px;
+}
+#navigate{
+    background-color: yellow; margin:auto; margin: 0px 50px;  border: 2px solid red;
+    color: black; font-weight:bolder;
+}
+tr{
+    font-size: 25px;
+    color: brown;
+    /* font-weight: bold; */
+    font-family: Arial Black, Helvetica, sans-serif;
+    padding:0px 50px;
+}
+#mic{
+    width: 3%;
+    padding: 6px;
+    padding-right: 48px;;
+    margin: -38px;
+    float: right;
+}
+#srclogo{
+    width: 23px;
+    padding: 3px;
+    padding-top: 10px;
+    float: left;
+}
